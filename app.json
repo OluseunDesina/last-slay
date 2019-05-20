@@ -1,0 +1,8 @@
+{
+    "name":"Slay NG demo",
+    "description":"An Online booking platform for professsionals",
+    "repository":"",
+    "logo":"htp://node-js-sample.herokuapp.com/node/svg",
+    "keywords":["Barbing", "Hairdressing", "Slay", "Professionals"],
+    "image":"heroku/node.js"
+}
